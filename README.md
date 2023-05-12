@@ -18,3 +18,4 @@
 * 이젠 main 은 최종이다. develop 으로 먼저 테스트 한다. 
 * develop_readme 를 생성했음 구웃..
 * 테스트 머지하기 전 한번 더 커밋!
+* develop_readme_test 생성 했는데 일단 커밋 해보자
